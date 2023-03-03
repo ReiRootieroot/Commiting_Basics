@@ -1,5 +1,14 @@
 # Committing Basics Exercise
-
+---
+The point of this exercise is to demonstrate understanding of commiting in Git and successfully execute the following relevant commands:
+    
+* git status
+* git init
+* git commit -m
+* git log
+* touch
+* git add
+---
 1. Create a new folder called `Shopping`
 2. Initialize a new git repo inside of the `Shopping` folder (make sure you're not already inside of a Git repo!)
 3. Make a new file called `yard.txt`
